@@ -36,11 +36,18 @@ Adafruit Micro SD SPI or SDIO Card Breakout Board - 3V ONLY!
 
 https://www.adafruit.com/product/4682
 
-Ribbon Cable 20 Pin (x1):
+Ribbon Cable 10 Pin (x2):
 
 1PCS 1.27 2.0 2.54mm Pitch FC-6/8/10/14/16/20/30/34/40/50Pin Flat Ribbon Data Cable Wire IDC Double Ends JTAG ISP Download Cable
 
 https://www.aliexpress.us/item/3256808902438744.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256808902438744&ds_e_product_merchant_id=5851713403&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20123152476&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=20127768206&gbraid=0AAAAAD6I-hEPeY1cbgUoZtG2agfYdzbUL&gclid=CjwKCAiAhqHXBhAXEiwATbksU43lIsg3kM0ozfuggxBXMpEX8dDCbyQI_1egpAP3J3sWNnAvvmCmaRoCSLgQAvD_BwE&gatewayAdapt=glo2usa
+
+Ribbon Cable 2x5 Pin Male Header (x2):
+
+10Pcs 2.54mm /2.0mm /1.27mm Pitch SMD SMT Double Row Male PIN Header 2*2/3/4/5/6/7/8/10/12/20/40/50 PIN Strip Connector
+
+https://www.aliexpress.us/item/3256805859910212.html?spm=a2g0o.productlist.main.1.167339d1rQi3O8&algo_pvid=507ff32d-750f-49aa-800c-54eb1bcb312d&algo_exp_id=507ff32d-750f-49aa-800c-54eb1bcb312d-0&pdp_ext_f=%7B%22order%22%3A%22299%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.43%213.05%21%21%2122.73%2120.21%21%402101ea8f17936778391364737e077f%2112000035473290275%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Acec02f2c%3Bm03_new_user%3A-29895&curPageLogUid=yEX3FVVno4Qe&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006046224964%7C_p_origin_prod%3A
+
 
 Spine Board (x1):
 
