@@ -1,0 +1,55 @@
+MP3 Player Final Parts list
+
+Display (x1):
+
+2.25" 76×284 color IPS “bar” TFT
+
+https://www.aliexpress.us/item/3256809009956989.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256809009956989&ds_e_product_merchant_id=5851713403&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20269108796&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=20273564092&gbraid=0AAAAAD6I-hGDJf-gAxOXJ35dZ7R_aDlPO&gclid=CjwKCAiAhqHXBhAXEiwATbksUxDj7BPYGRQTht4cT5INiaia0UGycoDe_JIoEdR1iz3GpZPfANqEYBoCigEQAvD_BwE&gatewayAdapt=glo2usa
+
+Battery (x1):
+
+Lithium Ion Cylindrical Battery - 3.7v 2200mAh
+
+https://www.adafruit.com/product/1781
+
+Microcontroller (x1):
+
+ESP32-S3 Feather with 4MB Flash 2MB PSRAM
+
+https://www.electromaker.io/shop/product/adafruit-esp32-s3-feather-with-4mb-flash-2mb-psram-stemma-qt-qwiic?gad_source=1&gad_campaignid=17338710367&gbraid=0AAAAAB8F3FkUbA_0DEDRl6WnK3z6IVhtE&gclid=CjwKCAiAhqHXBhAXEiwATbksU-EUx9LcE0b05hxeXaordO8rU8A45evcTaheZp0EAtbcR8WI-D9hgRoCHTIQAvD_BwE
+
+Rotary Encoders (x3):
+
+PEC11R-4015F-S0024
+
+https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4015F-S0024/4499668
+
+Headphone Jack + DAC (x1):
+
+Adafruit TLV320DAC3100 - I2S DAC with Headphone and Speaker Out
+
+https://www.adafruit.com/product/6309
+
+MicroSD Card Slot (x1):
+
+Adafruit Micro SD SPI or SDIO Card Breakout Board - 3V ONLY!
+
+https://www.adafruit.com/product/4682
+
+Ribbon Cable 20 Pin (x1):
+
+1PCS 1.27 2.0 2.54mm Pitch FC-6/8/10/14/16/20/30/34/40/50Pin Flat Ribbon Data Cable Wire IDC Double Ends JTAG ISP Download Cable
+
+https://www.aliexpress.us/item/3256808902438744.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256808902438744&ds_e_product_merchant_id=5851713403&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20123152476&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=20127768206&gbraid=0AAAAAD6I-hEPeY1cbgUoZtG2agfYdzbUL&gclid=CjwKCAiAhqHXBhAXEiwATbksU43lIsg3kM0ozfuggxBXMpEX8dDCbyQI_1egpAP3J3sWNnAvvmCmaRoCSLgQAvD_BwE&gatewayAdapt=glo2usa
+
+Spine Board (x1):
+
+[Send to PCB Manufacturer]
+
+Secondary Board (x1):
+
+[Send to PCB Manufacturer]
+
+Housing (x1):
+
+3D Printed
