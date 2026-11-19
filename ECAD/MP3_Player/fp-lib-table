@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Calculator_lib") (type "KiCad") (uri "C:/Users/RyanG/Desktop/Custom_Calculator_ESP32/ECAD/Calculator/Calculator_lib.pretty") (options "") (descr ""))
+)
